@@ -1,0 +1,22 @@
+{
+  "name": "flexbox-layout",
+  "version": "1.0.0",
+  "description": "flexbox layout with pop-up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AnnaMatieva",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2",
+    "matchdep": "^2.0.0"
+  },
+  "dependencies": {
+    "grunt-sass": "^2.0.0",
+    "node-sass": "^4.7.1"
+  }
+}
