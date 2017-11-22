@@ -178,8 +178,9 @@ h3 {
 .bottom-header {
   background: #d7d7d7;
   padding: 17px 0;
-  text-align: center;
-  font-size: 12px; }
+  text-align: center; }
+  .bottom-header h3 {
+    font-size: 12px; }
 
 .main-content {
   border-top: solid 1px #c8c8c8; }
@@ -206,7 +207,7 @@ h3 {
   text-align: center; }
 
 .file-view {
-  min-height: 70vh; }
+  min-height: 65vh; }
 
 .file-view-info,
 .file-action-info {

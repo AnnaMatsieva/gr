@@ -242,7 +242,10 @@ h3 {
   	background: #d7d7d7;
   	padding: 17px 0;
   	text-align: center;
-  	font-size: 12px;
+
+  	h3 {
+  		font-size: 12px;
+  	}
 }
 
 .main-content {
@@ -278,7 +281,7 @@ h3 {
 }
 
 .file-view {
-	min-height: 70vh;
+	min-height: 65vh;
 }
 
 .file-view-info,
